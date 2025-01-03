@@ -54,18 +54,18 @@ This project aims to detect and analyze lung nodules from CT scans using advance
 
 ### Visual Results of Web Application
 1. **The lung nodule detection Page**:
-   ![Web Application](c:\Users\lakshmi belgavi\Desktop\project pics\Screenshot 2024-05-24 012228.png)
+   ![Web Application](images/web app.png)
 
 2. **Uploading the images**:
-   ![Image Upload](c:\Users\lakshmi belgavi\Desktop\project pics\Screenshot 2024-05-24 012247.png)
+   ![Image Upload](images/image%20upload.png)
 
 3. **Result : CASE 1**:
-   ![Normal](c:\Users\lakshmi belgavi\Desktop\project pics\Screenshot 2024-05-24 012342.png)
+   ![Normal](images/case%201.png)
 
 4. **Result : CASE 2**:
-   ![Benign](c:\Users\lakshmi belgavi\Desktop\project pics\Screenshot 2024-05-24 012148.png)
+   ![Benign](images/case%202.png)
 
 5. **Result : CASE 3**:
-   ![Malignant](c:\Users\lakshmi belgavi\Desktop\project pics\Screenshot 2024-05-24 012342.png)
+   ![Malignant](images/case%203.png)
 
 
