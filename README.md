@@ -16,6 +16,7 @@ This project aims to detect and analyze lung nodules from CT scans using advance
 - **Libraries**: TensorFlow, Keras
 - **Tools**: Jupyter Notebook,PyCharm [IDE]
 - **Platform**: Google Colab
+- **Algorithms used**: Convolutional Neural Netwrok[CNN] , Gray Wolf Optimization[GWO]
 
 
 
@@ -53,19 +54,19 @@ This project aims to detect and analyze lung nodules from CT scans using advance
 
 
 ### Visual Results of Web Application
-1. **The lung nodule detection Page**:
-   ![Web Application](images/web app.png)
+1. **The lung nodule detection Page**:<br>
+   ![Web Application](images/web%20app.png)
 
-2. **Uploading the images**:
+2. **Uploading the images**:<br>
    ![Image Upload](images/image%20upload.png)
 
-3. **Result : CASE 1**:
+3. **Result : CASE 1**:<br>
    ![Normal](images/case%201.png)
 
-4. **Result : CASE 2**:
+4. **Result : CASE 2**:<br>
    ![Benign](images/case%202.png)
 
-5. **Result : CASE 3**:
+5. **Result : CASE 3**:<br>
    ![Malignant](images/case%203.png)
 
 
